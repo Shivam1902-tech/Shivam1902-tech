@@ -5,10 +5,10 @@
 🚗 Passionate about Cars & Automotive Technology  
 🌱 Exploring GitHub, coding, and open-source contributions  
 
- 🔧 Skills & Tools
-- Programming: Python  
-- Concepts: Digital Logic, Signals & Systems, Communication Engineering  
-- Tools: Git, GitHub, MATLAB (beginner), Arduino  
+🔧 Skills & Tools
+ - Programming: Python  
+ - Concepts: Digital Logic, Signals & Systems, Communication Engineering  
+ - Tools: Git, GitHub, MATLAB (beginner), Arduino  
 
  📫 Connect with me
-[![LinkedIn](https://www.linkedin.com/in/shivam1902/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam1902/)
