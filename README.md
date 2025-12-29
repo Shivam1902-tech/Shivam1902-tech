@@ -1,14 +1,40 @@
 👋 Hi, I’m Shivam
 
 🎓 3rd Year Electronics and Communication Engineering (ECE) Student  
-💻 Learning Python, C++, and building projects in Digital Systems & Signal Processing  
-🚗 Passionate about Cars & Automotive Technology  
-🌱 Exploring GitHub, coding, and open-source contributions  
+💻 Flutter App Developer with hands-on experience building Android applications  
+🐍 Python learner with strong fundamentals in digital systems and signals  
+🚀 Focused on building real-world projects and improving practical skills  
 
-🔧 Skills & Tools
- - Programming: Python  
- - Concepts: Digital Logic, Signals & Systems, Communication Engineering  
- - Tools: Git, GitHub, MATLAB (beginner), Arduino  
+## 🔧 Skills & Technologies
 
- 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam1902/)
+**App Development**
+- Flutter
+- Dart
+- Android App Development
+- UI Development
+
+**Programming**
+- Python (fundamentals)
+- C++ (basic)
+
+**Core ECE Concepts**
+- Digital Logic
+- Signals & Systems
+- Communication Engineering
+
+**Tools**
+- Git & GitHub
+- MATLAB (beginner)
+- Arduino (basic)
+
+## 📌 Projects
+- **Nostalgia** — Flutter-based Android app focused on memory-driven user experience  
+- **Life Simulator** — Simulation-based Android app modeling daily decisions and life stats  
+
+## 🎯 Current Focus
+- Strengthening Flutter and Android development skills  
+- Building more real-world applications  
+- Preparing for internships and industry exposure  
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/shivam1902/
