@@ -24,8 +24,8 @@
 
 **Tools**
 - Git & GitHub
-- MATLAB (beginner)
-- Arduino (basic)
+- MATLAB 
+- Arduino
 
 ## 📌 Projects
 - **Nostalgia** — Flutter-based Android app focused on memory-driven user experience  
