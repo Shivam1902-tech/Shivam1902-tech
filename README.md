@@ -1,4 +1,4 @@
-👋 Hi, I’m Shivam
+# 👋 Hi, I’m Shivam
 
 🎓 3rd Year Electronics and Communication Engineering (ECE) student  
 💻 Flutter App Developer with hands-on experience building Android applications  
@@ -7,49 +7,50 @@
 
 ---
 
-🔧 Skills & Technologies
+## 🔧 Skills & Technologies
 
-**App Development**
+### 📱 App Development
 - Flutter  
 - Dart  
 - Android App Development  
 - UI Development  
 
-**Programming**
+### 💻 Programming
 - Python  
 - C++ (basic)  
 
-**Core ECE Concepts**
+### 📡 Core ECE Concepts
 - Digital Logic  
 - Signals & Systems  
 - Communication Engineering  
 
-**Tools**
+### 🛠 Tools
 - Git & GitHub  
 - MATLAB  
 - Arduino  
 
 ---
 
-📌 Projects
+## 📌 Projects
 
-**Flutter Projects**
+### 📱 Flutter Projects
+- **GradeCap** — An all-in-one academic companion for CGPA calculation, attendance tracking, and exam planning. Built with Flutter and designed for a clean, distraction-free student experience.  
 - **Nostalgia** — Flutter-based Android application focused on memory-driven user experience with clean UI and smooth navigation  
-- **Life Simulator** — Decision-based Android app simulating daily life choices and dynamic stat tracking  
+- **Life Simulator** — Decision-based Android app simulating daily life choices with dynamic stat tracking  
 
-**Python Projects**
+### 🐍 Python Projects
 - **Signal Generator & Plotter** — Python project to generate and visualize sine, square, and triangular signals with configurable parameters  
 - **Digital Modulation Visualizer** — Python-based visualization tool for ASK, FSK, and BPSK modulation techniques  
 
 ---
 
-🎯 Current Focus
+## 🎯 Current Focus
 - Strengthening Flutter and Android development skills  
 - Building more real-world applications  
 - Preparing for software and app development internships  
 
 ---
 
-📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/shivam1902/  
-- Portfolio: https://shivam1902-tech.github.io  
+## 📫 Connect with Me
+- **LinkedIn:** https://www.linkedin.com/in/shivam1902/  
+- **Portfolio:** https://shivam1902-tech.github.io  
