@@ -17,7 +17,7 @@
 
 ### 💻 Programming
 - Python  
-- C++ (basic)  
+- C++ (Basic)  
 
 ### 📡 Core ECE Concepts
 - Digital Logic  
@@ -35,13 +35,13 @@
 
 ### 📱 Flutter Projects
 - **GradeCap** — An all-in-one academic companion for CGPA calculation, attendance tracking, and exam planning. Built with Flutter and designed for a clean, distraction-free student experience.  
-- **Nostalgia** — Flutter-based Android application focused on memory-driven user experience with clean UI and smooth navigation  
-- **Life Simulator** — Decision-based Android app simulating daily life choices with dynamic stat tracking  
+- **Nostalgia** — Flutter-based Android application focused on memory-driven user experience with clean UI and smooth navigation.  
+- **Life Simulator** — Decision-based Android app simulating daily life choices with dynamic stat tracking.  
 
 ### 🐍 Python Projects
-- **Digital Communication System Simulator - Developed a Digital Communication Simulator (BPSK/QPSK) with BER analysis using Python and Streamlit
-- **Signal Generator & Plotter** — Python project to generate and visualize sine, square, and triangular signals with configurable parameters  
-- **Digital Modulation Visualizer** — Python-based visualization tool for ASK, FSK, and BPSK modulation techniques  
+- **Digital Communication System Simulator** — Developed a Digital Communication Simulator implementing **BPSK and QPSK modulation** with **BER performance analysis over an AWGN channel** using **Python and Streamlit**.  
+- **Signal Generator & Plotter** — Python project to generate and visualize sine, square, and triangular signals with configurable parameters.  
+- **Digital Modulation Visualizer** — Python-based visualization tool for ASK, FSK, and BPSK modulation techniques.  
 
 ---
 
