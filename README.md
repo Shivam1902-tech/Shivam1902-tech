@@ -39,6 +39,7 @@
 - **Life Simulator** — Decision-based Android app simulating daily life choices with dynamic stat tracking  
 
 ### 🐍 Python Projects
+- **Digital Communication System Simulator - Developed a Digital Communication Simulator (BPSK/QPSK) with BER analysis using Python and Streamlit
 - **Signal Generator & Plotter** — Python project to generate and visualize sine, square, and triangular signals with configurable parameters  
 - **Digital Modulation Visualizer** — Python-based visualization tool for ASK, FSK, and BPSK modulation techniques  
 
